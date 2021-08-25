@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "HeavyBR/open-sauced-goals",
+    "stargazers_count": 0,
+    "open_issues_count": 3,
+    "forks_count": 0
+  },
+  {
     "full_name": "kumahq/kuma",
     "stargazers_count": 2361,
     "open_issues_count": 221,
@@ -7,8 +13,8 @@
   },
   {
     "full_name": "istio/istio",
-    "stargazers_count": 27791,
-    "open_issues_count": 788,
+    "stargazers_count": 27792,
+    "open_issues_count": 790,
     "forks_count": 5616
   }
 ]
