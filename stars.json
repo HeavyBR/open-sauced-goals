@@ -7,27 +7,27 @@
   },
   {
     "full_name": "swaggo/swag",
-    "stargazers_count": 5686,
-    "open_issues_count": 106,
-    "forks_count": 767
+    "stargazers_count": 5709,
+    "open_issues_count": 107,
+    "forks_count": 773
   },
   {
     "full_name": "kumahq/kuma",
-    "stargazers_count": 2650,
-    "open_issues_count": 324,
+    "stargazers_count": 2665,
+    "open_issues_count": 319,
     "forks_count": 227
   },
   {
     "full_name": "ebosas/microservices",
     "stargazers_count": 263,
     "open_issues_count": 0,
-    "forks_count": 35
+    "forks_count": 36
   },
   {
     "full_name": "rmanguinho/clean-react",
-    "stargazers_count": 817,
+    "stargazers_count": 821,
     "open_issues_count": 3,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "ulissesdias/si700-2021-1st-backend-",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 19497,
+    "stargazers_count": 19550,
     "open_issues_count": 83,
-    "forks_count": 695
+    "forks_count": 696
   },
   {
     "full_name": "bxcodec/go-clean-arch",
-    "stargazers_count": 5567,
+    "stargazers_count": 5584,
     "open_issues_count": 18,
-    "forks_count": 854
+    "forks_count": 860
   },
   {
     "full_name": "encoredev/encore",
-    "stargazers_count": 2588,
+    "stargazers_count": 2599,
     "open_issues_count": 13,
-    "forks_count": 76
+    "forks_count": 78
   },
   {
     "full_name": "istio/istio",
-    "stargazers_count": 29844,
-    "open_issues_count": 639,
-    "forks_count": 6209
+    "stargazers_count": 29877,
+    "open_issues_count": 631,
+    "forks_count": 6219
   },
   {
     "full_name": "gradvohl/tese-ft",
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 30434,
-    "open_issues_count": 74,
-    "forks_count": 3411
+    "stargazers_count": 30516,
+    "open_issues_count": 75,
+    "forks_count": 3429
   },
   {
     "full_name": "tmrts/go-patterns",
-    "stargazers_count": 18616,
+    "stargazers_count": 18649,
     "open_issues_count": 61,
-    "forks_count": 1741
+    "forks_count": 1745
   },
   {
     "full_name": "FiretableProject/firetable",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "Alikhll/golang-developer-roadmap",
-    "stargazers_count": 13936,
+    "stargazers_count": 13963,
     "open_issues_count": 18,
-    "forks_count": 1768
+    "forks_count": 1774
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 21629,
+    "stargazers_count": 21665,
     "open_issues_count": 75,
-    "forks_count": 820
+    "forks_count": 823
   },
   {
     "full_name": "iptv-org/iptv",
-    "stargazers_count": 48175,
-    "open_issues_count": 338,
-    "forks_count": 8505
+    "stargazers_count": 48529,
+    "open_issues_count": 343,
+    "forks_count": 8540
   },
   {
     "full_name": "juliobonon/learn-rust",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "golang/oauth2",
-    "stargazers_count": 4087,
+    "stargazers_count": 4089,
     "open_issues_count": 169,
-    "forks_count": 831
+    "forks_count": 832
   },
   {
     "full_name": "HeavyBR/adventofcode",
@@ -127,55 +127,55 @@
   },
   {
     "full_name": "gofiber/fiber",
-    "stargazers_count": 19143,
-    "open_issues_count": 32,
-    "forks_count": 984
+    "stargazers_count": 19213,
+    "open_issues_count": 34,
+    "forks_count": 986
   },
   {
     "full_name": "qiangxue/go-rest-api",
-    "stargazers_count": 816,
+    "stargazers_count": 817,
     "open_issues_count": 12,
-    "forks_count": 168
+    "forks_count": 169
   },
   {
     "full_name": "site-prism/site_prism",
-    "stargazers_count": 221,
+    "stargazers_count": 222,
     "open_issues_count": 6,
     "forks_count": 30
   },
   {
     "full_name": "codeceptjs/CodeceptJS",
-    "stargazers_count": 3684,
+    "stargazers_count": 3686,
     "open_issues_count": 309,
-    "forks_count": 654
+    "forks_count": 653
   },
   {
     "full_name": "seanpmaxwell/overnight",
     "stargazers_count": 809,
-    "open_issues_count": 15,
+    "open_issues_count": 19,
     "forks_count": 32
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 64897,
-    "open_issues_count": 64,
-    "forks_count": 5981
+    "stargazers_count": 64985,
+    "open_issues_count": 65,
+    "forks_count": 5999
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 9577,
-    "open_issues_count": 1846,
-    "forks_count": 1727
+    "stargazers_count": 9597,
+    "open_issues_count": 1853,
+    "forks_count": 1734
   },
   {
     "full_name": "Jucian0/recoil-example",
     "stargazers_count": 1,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 0
   },
   {
     "full_name": "teamcapybara/capybara",
-    "stargazers_count": 9551,
+    "stargazers_count": 9555,
     "open_issues_count": 29,
     "forks_count": 1403
   }
